@@ -1,0 +1,5 @@
+# build products, Python caches and the `make smoke` run
+collapse
+__pycache__/
+*.pyc
+smoke_run/
